@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: b55a3921b3ed43b4a9cdbd47420eec44
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naruto Stage (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1447
+        width: 516
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94728af30a1a85342aeaf6567dcb559d
+      internalID: -255047872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1673
+        width: 175
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842b268cf4fb0fd40a3903a2424d8ed4
+      internalID: -1503527045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1405
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea80baef5e2bbab48abb86afa8976708
+      internalID: 1455406265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1405
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbb758f84f5de446a1c28f8d67ff4b2
+      internalID: 2097862059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1405
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c4a34d65555a74d992d915b8d72b5f
+      internalID: 156307656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1405
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25864e95b2c16564db6dbacb203716e0
+      internalID: 1620392818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1405
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1ec8258306694e8f1aa69b4d3f2ff
+      internalID: 1680409614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1405
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8a9f73d6a0d74d80d4ddacf8f3e58
+      internalID: -57910638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1405
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52e8f88bae69a40a14bd591d9a24dc
+      internalID: -479351997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1405
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d42cf935d3f1947a6cf598ac550909
+      internalID: -297731238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1405
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df269813120024a4988d44b4529b9174
+      internalID: 1196049912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1405
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30708cc1a3eb694ebc7fbcaab0c71ce
+      internalID: -621247055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1405
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee41568a5279794cb95dc1efe0eb7c2
+      internalID: 729647022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1405
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f546f817f4a62242904bf2f989f5c39
+      internalID: 1888865542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1405
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c527e01394c46ca4c8c4253d08781787
+      internalID: -945341239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1400
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be61b12ca0a5f4caac34ef845d9027
+      internalID: 968581858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1405
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea587f4ec9fbfab498eb5e9c979cf407
+      internalID: 1320458294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1405
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fcdce482f714f44bdfe3f4aeac720c
+      internalID: 291901885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 840
+        width: 508
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c1ed1599496b46b4b6aeea8f03082
+      internalID: -1009011827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 798
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6dacb1802707a48bf74982ab3aad85
+      internalID: -441948542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 798
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d26ad98ad6aa6246a9a6d8a133241f2
+      internalID: -1063427537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 798
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51197bae6766142acd02820dd2dfc5
+      internalID: 1984604689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 798
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cdfd8c0f0c8e247af2cc37848e0d3d
+      internalID: -1946568587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 793
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562a4a4ecc7ba244a4b0e83efd191c0
+      internalID: -1031099887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 575
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c8080a3868b94a8fbaa839e8d82bd
+      internalID: -821917806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 220
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc31265cdf1df4bb5f1f42bd927075
+      internalID: -572215077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 220
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69736e26bf501f4db7416be2582cbc2
+      internalID: -1232158473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 220
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81ae4d113bf97f45a14d7d6e17d7b54
+      internalID: 1967305917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 220
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a86b95b363ff24dab4a46ef6899404
+      internalID: 65971443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 220
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304094dadc07ef7439871d35c99c0272
+      internalID: -1848455135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 220
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9461c20a4fca594db0a8138bc8f805b
+      internalID: -2144911369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 575
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd37aaa55f231f488ad162b6aee0368
+      internalID: -466578443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f14386a093fb24899ed8e0a3df50cc
+      internalID: 1343562928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_33
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235b46c8766b744cbceb4065e1a6566
+      internalID: 1122772965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 171
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd89d5f41ce703440b8da62634adcdca
+      internalID: -1101015861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_35
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 171
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad49f3192c61ed4193f99fbe22d566e
+      internalID: -1701065560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_36
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 152
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b3badd4ca20244d9841472e059602e
+      internalID: -380027755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_37
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 155
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a197aebafb669a54ba3105669b282502
+      internalID: -997040381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_38
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 155
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5466189228d91aa48b1933c6c4bf4cb5
+      internalID: 1533966303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 155
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5868062bddb764e9ca643986f36313
+      internalID: 23513548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_40
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 155
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c21869cf6318340b9f1f8564bfb0a8
+      internalID: 1793487156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_41
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84efd3b42c53164595bfe0fb15464d9
+      internalID: 643726312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_42
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3361bf64401126641a69a6292dbc4b22
+      internalID: -1425967860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_43
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 155
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d91cece90f3864989abc614d754a21
+      internalID: -182398590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_44
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6358afe814504ea0dc54257c749a8
+      internalID: 2126599660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_45
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 155
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad66a49b5d5d8a4cb53860c514f52cd
+      internalID: 1421663085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_46
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 155
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c88805cff23d224ead7509ab2c9a337
+      internalID: -808263214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_47
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06c80dae82567549917deead37ee814
+      internalID: -419857156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 155
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ec6f4b68f33e546ad9734bab8d2fc1
+      internalID: -48592138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_49
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8404e45d790e65547844f044f4108076
+      internalID: 2081059307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_50
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb079b89cea8814c8452236024eba11
+      internalID: 848484734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_51
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 153
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ad5ec523d6494cbce1fd791e5fe92
+      internalID: -1300850104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_52
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 139
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a01eb2a17dcc748aaf25ecb7726fc4
+      internalID: -1248645405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_53
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec456ea43dd7d548a49caa150abed8a
+      internalID: 666831414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_54
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3528c9d1234c4f4e93393f6330901bd
+      internalID: 1296326616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_55
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 136
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d830d4b6405b44385b0efe782f482d
+      internalID: -518858697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_56
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 139
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab795cd619dcd40bbf15b0e6291249
+      internalID: -779386518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_57
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 139
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51217b9cb99d268488df92ecef41c59b
+      internalID: -1768744324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_58
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315e5c96e61c49943973cac99e9adccf
+      internalID: -1393233225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_59
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 139
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca2568f56145244b08e426fd1bd916
+      internalID: -1275512616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_60
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5fdfb09f7a9d44af33f2c063891eb
+      internalID: 389675811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_61
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 136
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65306bb02c1a85f4bbf657dc506daa52
+      internalID: 1993712110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_62
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 139
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48410bbe4b3644e8aeab8c041f6a73
+      internalID: 1879855227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2872bd5c4fd0488fcc9faec85fbb7
+      internalID: 1186723945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_64
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 139
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a2c1773e347b4090c860cb17274cc
+      internalID: -987357537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_65
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a57318de842c49ba4bfd836e20605
+      internalID: -392038759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_66
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 139
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939a34395ba5bbb49a4aa7f3b4936e18
+      internalID: -61615058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_67
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 139
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d08cacbc8ef204b98678a5f594474d
+      internalID: -922739800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_68
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 139
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e82cf76b766141a71f59a3568a71c
+      internalID: -1004903922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_69
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc2c26e6d74f54cba3425d07f35c0f
+      internalID: -1993930193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_70
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 136
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a53c58937f5d4e922b16efba7b147
+      internalID: 1370944795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_71
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809901d884db9da41805a7e4c8fed90e
+      internalID: 600302497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_72
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b71968ec5bee5d4097464c6877395df
+      internalID: 1606596396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_73
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 139
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1554c58284158e447b34263989c7d587
+      internalID: -1893497290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_74
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b34e4f688a90c4b839c03f421d0f7e
+      internalID: 1151921602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_75
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 136
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea8e2480fd5394a9e58af00efec793
+      internalID: 489288527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_76
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 123
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5bb687e674f37438ad35bcb99a7da9
+      internalID: 1536559795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_77
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 123
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d68a6e49b96f9d4698be3d209c4fd30
+      internalID: 530143763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_78
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6006a26bb98ed4aa3453ec8dbe8e7a
+      internalID: 647413867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_79
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 123
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2393ecd713d3b746af9ea74f8783493
+      internalID: -1113200544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_80
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 123
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b218a38c722d8c9488d7657c533253cc
+      internalID: 1328116181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_81
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 123
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d72aeac3aa2bf14c9688b64cba52cde
+      internalID: -2067493810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_82
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0314ea2420ab5e4eb230544dceb23ab
+      internalID: 1063786982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_83
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 123
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec4a66a52ed2142a9122e328bf5584
+      internalID: 905921756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_84
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced7566d7f537f4abe555fbf892c001
+      internalID: 2127743657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef61a5b9b5445458c72302c5a65110
+      internalID: 826406111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_86
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc764310e95bffc4f8cabfcf2662e8b4
+      internalID: -399211597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_87
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 123
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aff7a877b735f40896626c8e0bd243
+      internalID: 511240015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_88
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 123
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1882b1d811e267f4e831fedef45fc6d7
+      internalID: 869174581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_89
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 123
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554bd54fd8cc8ea4c85f8e2f39a002f1
+      internalID: 1137775411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_90
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 91
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b93f9e9952fe6478969bf5282d9950
+      internalID: 546204621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_91
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d168876183af3442a6b8de1045515a0
+      internalID: 396175562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_92
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 91
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f173a06eacff34db29b1aeb24b485d
+      internalID: 2111499486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_93
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d761f65572cd4291a9ab35a860ea5
+      internalID: 1335885969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_94
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc431a8ec3f04e43bea89f7fc7bad37
+      internalID: 1769133967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_95
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8960c0abe6ef24e8b981051e74ceee
+      internalID: 1543665012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_96
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 91
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7fbf8dae0a98b46bc3146644cec588
+      internalID: -1414979141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_97
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373eaa1c3c256740b5fba8f0f1764be
+      internalID: -654988034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_98
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b041dee33e1c42b8bfa6abfdaf10c
+      internalID: -734972145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_99
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 91
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625f7d13eed47424c8d3360a59b6610d
+      internalID: 1874934665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_100
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3615e1106cefb3946a35520adc0da717
+      internalID: 1707911202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_101
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 91
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a5bda6348d7a749a7fc21d5329ed7e
+      internalID: -1820454466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_102
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b5b6cc7a399547a6e06514cd5da6d
+      internalID: 1382589927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_103
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b13571de72d06b45968078b692b12cd
+      internalID: -540265772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_104
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 91
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440f8b393f49544d8fbd8034e992d42
+      internalID: 1935907572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_105
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 89
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb6bff2fea26348b2ae211cacc19b0
+      internalID: 1040961866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_106
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 75
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbea71b30d3893c49af53c23723601b3
+      internalID: -861033755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_107
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3e28490720aeb499824a6a19286427
+      internalID: 1649764994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_108
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff08f9597d1d28468754eb7945e1d73
+      internalID: 1420111491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_109
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a46ab058b3ada4aae3a98db3dd0a96
+      internalID: 317580748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_110
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 75
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137cd776821a8334c8a2a9a8c231b756
+      internalID: -1575564651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_111
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 75
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeed335171448244a58534aa1f18f08
+      internalID: -1283470540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_112
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff859d5faed87748ae79e9ceb5acf8c
+      internalID: -1188920794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_113
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de4d83f4a635564a9ed7761cebe0e02
+      internalID: -1011085595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_114
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93fbfad97b976c4f8c0eb74a5490f68
+      internalID: -513731818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_115
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3093646400c9b7c4ca524877fedbe14a
+      internalID: 362273028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_116
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 75
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469f0c3660b1d764583c4a1ed53e03b4
+      internalID: -1564036482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_117
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e57eaed90672a4d902ffe3dc92186c
+      internalID: 841354287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_118
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 75
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c165e50e0735747bec04d5fd4ebf41
+      internalID: 1214269049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_119
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9805f93a6388447bde940be85529dc
+      internalID: -1134925282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_120
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 75
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef01f63be96334fb10f4ddccb8451d
+      internalID: 1811100204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_121
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 75
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7bf5de065bc864fb1764db1d6856d6
+      internalID: -1845223700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_122
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 75
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ec51b9fd3ac34e8270ab0ba82e9a6
+      internalID: 1627451457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_123
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c0b36c23863e4cbfeac1bb5ce0422
+      internalID: -108543507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_124
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4415a02e9a76f42b604fe0faac2369
+      internalID: 1818246374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_125
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981be7d8c778be54b88accecaca595ff
+      internalID: -497749844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_126
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cde960d73d26b48b9644c375217e63
+      internalID: 1167594563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_127
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 75
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638cd408f010d7f448f0d782a7948fcc
+      internalID: 1234081887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_128
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a2b7732414844b86b4388803d39fa
+      internalID: 440924251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_129
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8115693d4f3eec44a6f2658ec28f02c
+      internalID: 1329430462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_130
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 59
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b4196e22ea674aa1548e12709b994
+      internalID: 1962223146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_131
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 59
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b79ae7c63d5c428cdd75e59683c80
+      internalID: -97166747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_132
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82618513c15e4ee40ab66a935edff8de
+      internalID: 897309873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_133
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 59
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec3041a273c2b5419f5ec8e0cfad89d
+      internalID: 237797773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_134
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 59
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee4a71943a3be4389cc659a50b04f2
+      internalID: -1943953411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_135
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 59
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f6cade83c50e40958c1b49426d9f3
+      internalID: -806748891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_136
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2fd2419fdb1b4786c07ad6f894776
+      internalID: 1289099414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_137
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 59
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db6a77982fd344882367eda707a606
+      internalID: -997477085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_138
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56408e49a2fd60340ab14519e39d3661
+      internalID: 342232285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_139
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c35d5087c3c97479ac76242d7e0a8c
+      internalID: -1129037109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_140
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01863678286134d4082bc52f03297b94
+      internalID: 1766037650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_141
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 59
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057ca7b857cd7da4fa5feba029bb418c
+      internalID: -351100892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_142
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 59
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83680871a7d083f41addd3ee59062241
+      internalID: -922011190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_143
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34a041f7f85370448178aa6b84dbd85
+      internalID: 2140190711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_144
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 59
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529833b4eccaef4eac3816517eac23e
+      internalID: 1672180706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_145
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 59
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1a2cde77cc8bc4091eae4ba9489fb3
+      internalID: 921598898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e044a96efd7ba224cbcb2d215b2c1a5e
+      internalID: -92912544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_147
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 56
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667018cfa2c1594b95a5cf6ecd87eea
+      internalID: 420682320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_148
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 59
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dafd79bac5505a4a988083a7ad28f71
+      internalID: 1513355046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_149
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a21585766ea13448240538b220106b
+      internalID: -1513520280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_150
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b679b915d044ba84586e985e492620d1
+      internalID: 1281285607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_151
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814387a8cf754d44b87bfdb343f23d1
+      internalID: -561335694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_152
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 43
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c50e0fc63794f4d8215f113f71a42d
+      internalID: 2073873539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_153
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 40
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4cf8783bd67e249b9b705c47d50c64
+      internalID: 552621294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_154
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 43
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea222ba4221526841bcfe6ad94aa3acf
+      internalID: 493384728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_155
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 43
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd5e3bd313fa1459400444781c0396
+      internalID: 1196346539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_156
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 40
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5beda048b3c274fad3e405f99d75c4
+      internalID: 1536346535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_157
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 43
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93302267211ba6749af3e686f3b84596
+      internalID: 1120705157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_158
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ecebe3614291643a1557d76e357189
+      internalID: 67771501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_159
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21759a53e162f4145aa4c4ad86430f6b
+      internalID: 2023427877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_160
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab4f4a39128b941b1c45ccdb1c203a
+      internalID: 1005369262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_161
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 43
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7119ce67fe6f2b4bacba907009a724f
+      internalID: -1027663449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_162
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 43
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759ecc37480d434e82eb8ef72864973
+      internalID: -442566267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_163
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 43
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f266255912d934fa2778abac42ea20
+      internalID: 1145057324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_164
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d000a5d41393f784890b304904ee9e71
+      internalID: 1989300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_165
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34db2b96990fc174fb1ba938c54b2d05
+      internalID: 592682713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_166
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c2f8baf477b034290f8afd42652755
+      internalID: 2090034578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_167
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96469d1d5ff3848b201d7824dcef78
+      internalID: 1427204017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_168
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1305fd32ba598be42b6a5098a5cb2822
+      internalID: 1066801830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_169
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 43
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1704590965627745bbb34de4d658460
+      internalID: 1752864150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_170
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a0f8cae6304204e8585803557e052a
+      internalID: -1076405410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_171
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228bb9a68f6517b42bc1f1d3fd24c981
+      internalID: 1395407127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_172
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 27
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c69cea2222be824bae4e1200bfd4fd1
+      internalID: 324880677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_173
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1d92ed4598094f91bbb52781c9cc5
+      internalID: -2030809901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_174
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 27
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391865c94c30822448c44fb9c924006e
+      internalID: 641992555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_175
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f6e7f2533b254e9b871b90ef56176
+      internalID: -2019792829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_176
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc249713804b8418b2b79d870ce99d
+      internalID: -426564176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naruto Stage (1)_177
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 27
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5058f20f71f8b445b9c8f71bd013513
+      internalID: -717627474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Naruto Stage (1)_0: -255047872
+      Naruto Stage (1)_1: -1503527045
+      Naruto Stage (1)_10: 1196049912
+      Naruto Stage (1)_100: 1707911202
+      Naruto Stage (1)_101: -1820454466
+      Naruto Stage (1)_102: 1382589927
+      Naruto Stage (1)_103: -540265772
+      Naruto Stage (1)_104: 1935907572
+      Naruto Stage (1)_105: 1040961866
+      Naruto Stage (1)_106: -861033755
+      Naruto Stage (1)_107: 1649764994
+      Naruto Stage (1)_108: 1420111491
+      Naruto Stage (1)_109: 317580748
+      Naruto Stage (1)_11: -621247055
+      Naruto Stage (1)_110: -1575564651
+      Naruto Stage (1)_111: -1283470540
+      Naruto Stage (1)_112: -1188920794
+      Naruto Stage (1)_113: -1011085595
+      Naruto Stage (1)_114: -513731818
+      Naruto Stage (1)_115: 362273028
+      Naruto Stage (1)_116: -1564036482
+      Naruto Stage (1)_117: 841354287
+      Naruto Stage (1)_118: 1214269049
+      Naruto Stage (1)_119: -1134925282
+      Naruto Stage (1)_12: 729647022
+      Naruto Stage (1)_120: 1811100204
+      Naruto Stage (1)_121: -1845223700
+      Naruto Stage (1)_122: 1627451457
+      Naruto Stage (1)_123: -108543507
+      Naruto Stage (1)_124: 1818246374
+      Naruto Stage (1)_125: -497749844
+      Naruto Stage (1)_126: 1167594563
+      Naruto Stage (1)_127: 1234081887
+      Naruto Stage (1)_128: 440924251
+      Naruto Stage (1)_129: 1329430462
+      Naruto Stage (1)_13: 1888865542
+      Naruto Stage (1)_130: 1962223146
+      Naruto Stage (1)_131: -97166747
+      Naruto Stage (1)_132: 897309873
+      Naruto Stage (1)_133: 237797773
+      Naruto Stage (1)_134: -1943953411
+      Naruto Stage (1)_135: -806748891
+      Naruto Stage (1)_136: 1289099414
+      Naruto Stage (1)_137: -997477085
+      Naruto Stage (1)_138: 342232285
+      Naruto Stage (1)_139: -1129037109
+      Naruto Stage (1)_14: -945341239
+      Naruto Stage (1)_140: 1766037650
+      Naruto Stage (1)_141: -351100892
+      Naruto Stage (1)_142: -922011190
+      Naruto Stage (1)_143: 2140190711
+      Naruto Stage (1)_144: 1672180706
+      Naruto Stage (1)_145: 921598898
+      Naruto Stage (1)_146: -92912544
+      Naruto Stage (1)_147: 420682320
+      Naruto Stage (1)_148: 1513355046
+      Naruto Stage (1)_149: -1513520280
+      Naruto Stage (1)_15: 968581858
+      Naruto Stage (1)_150: 1281285607
+      Naruto Stage (1)_151: -561335694
+      Naruto Stage (1)_152: 2073873539
+      Naruto Stage (1)_153: 552621294
+      Naruto Stage (1)_154: 493384728
+      Naruto Stage (1)_155: 1196346539
+      Naruto Stage (1)_156: 1536346535
+      Naruto Stage (1)_157: 1120705157
+      Naruto Stage (1)_158: 67771501
+      Naruto Stage (1)_159: 2023427877
+      Naruto Stage (1)_16: 1320458294
+      Naruto Stage (1)_160: 1005369262
+      Naruto Stage (1)_161: -1027663449
+      Naruto Stage (1)_162: -442566267
+      Naruto Stage (1)_163: 1145057324
+      Naruto Stage (1)_164: 1989300320
+      Naruto Stage (1)_165: 592682713
+      Naruto Stage (1)_166: 2090034578
+      Naruto Stage (1)_167: 1427204017
+      Naruto Stage (1)_168: 1066801830
+      Naruto Stage (1)_169: 1752864150
+      Naruto Stage (1)_17: 291901885
+      Naruto Stage (1)_170: -1076405410
+      Naruto Stage (1)_171: 1395407127
+      Naruto Stage (1)_172: 324880677
+      Naruto Stage (1)_173: -2030809901
+      Naruto Stage (1)_174: 641992555
+      Naruto Stage (1)_175: -2019792829
+      Naruto Stage (1)_176: -426564176
+      Naruto Stage (1)_177: -717627474
+      Naruto Stage (1)_18: -1009011827
+      Naruto Stage (1)_19: -441948542
+      Naruto Stage (1)_2: 1455406265
+      Naruto Stage (1)_20: -1063427537
+      Naruto Stage (1)_21: 1984604689
+      Naruto Stage (1)_22: -1946568587
+      Naruto Stage (1)_23: -1031099887
+      Naruto Stage (1)_24: -821917806
+      Naruto Stage (1)_25: -572215077
+      Naruto Stage (1)_26: -1232158473
+      Naruto Stage (1)_27: 1967305917
+      Naruto Stage (1)_28: 65971443
+      Naruto Stage (1)_29: -1848455135
+      Naruto Stage (1)_3: 2097862059
+      Naruto Stage (1)_30: -2144911369
+      Naruto Stage (1)_31: -466578443
+      Naruto Stage (1)_32: 1343562928
+      Naruto Stage (1)_33: 1122772965
+      Naruto Stage (1)_34: -1101015861
+      Naruto Stage (1)_35: -1701065560
+      Naruto Stage (1)_36: -380027755
+      Naruto Stage (1)_37: -997040381
+      Naruto Stage (1)_38: 1533966303
+      Naruto Stage (1)_39: 23513548
+      Naruto Stage (1)_4: 156307656
+      Naruto Stage (1)_40: 1793487156
+      Naruto Stage (1)_41: 643726312
+      Naruto Stage (1)_42: -1425967860
+      Naruto Stage (1)_43: -182398590
+      Naruto Stage (1)_44: 2126599660
+      Naruto Stage (1)_45: 1421663085
+      Naruto Stage (1)_46: -808263214
+      Naruto Stage (1)_47: -419857156
+      Naruto Stage (1)_48: -48592138
+      Naruto Stage (1)_49: 2081059307
+      Naruto Stage (1)_5: 1620392818
+      Naruto Stage (1)_50: 848484734
+      Naruto Stage (1)_51: -1300850104
+      Naruto Stage (1)_52: -1248645405
+      Naruto Stage (1)_53: 666831414
+      Naruto Stage (1)_54: 1296326616
+      Naruto Stage (1)_55: -518858697
+      Naruto Stage (1)_56: -779386518
+      Naruto Stage (1)_57: -1768744324
+      Naruto Stage (1)_58: -1393233225
+      Naruto Stage (1)_59: -1275512616
+      Naruto Stage (1)_6: 1680409614
+      Naruto Stage (1)_60: 389675811
+      Naruto Stage (1)_61: 1993712110
+      Naruto Stage (1)_62: 1879855227
+      Naruto Stage (1)_63: 1186723945
+      Naruto Stage (1)_64: -987357537
+      Naruto Stage (1)_65: -392038759
+      Naruto Stage (1)_66: -61615058
+      Naruto Stage (1)_67: -922739800
+      Naruto Stage (1)_68: -1004903922
+      Naruto Stage (1)_69: -1993930193
+      Naruto Stage (1)_7: -57910638
+      Naruto Stage (1)_70: 1370944795
+      Naruto Stage (1)_71: 600302497
+      Naruto Stage (1)_72: 1606596396
+      Naruto Stage (1)_73: -1893497290
+      Naruto Stage (1)_74: 1151921602
+      Naruto Stage (1)_75: 489288527
+      Naruto Stage (1)_76: 1536559795
+      Naruto Stage (1)_77: 530143763
+      Naruto Stage (1)_78: 647413867
+      Naruto Stage (1)_79: -1113200544
+      Naruto Stage (1)_8: -479351997
+      Naruto Stage (1)_80: 1328116181
+      Naruto Stage (1)_81: -2067493810
+      Naruto Stage (1)_82: 1063786982
+      Naruto Stage (1)_83: 905921756
+      Naruto Stage (1)_84: 2127743657
+      Naruto Stage (1)_85: 826406111
+      Naruto Stage (1)_86: -399211597
+      Naruto Stage (1)_87: 511240015
+      Naruto Stage (1)_88: 869174581
+      Naruto Stage (1)_89: 1137775411
+      Naruto Stage (1)_9: -297731238
+      Naruto Stage (1)_90: 546204621
+      Naruto Stage (1)_91: 396175562
+      Naruto Stage (1)_92: 2111499486
+      Naruto Stage (1)_93: 1335885969
+      Naruto Stage (1)_94: 1769133967
+      Naruto Stage (1)_95: 1543665012
+      Naruto Stage (1)_96: -1414979141
+      Naruto Stage (1)_97: -654988034
+      Naruto Stage (1)_98: -734972145
+      Naruto Stage (1)_99: 1874934665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

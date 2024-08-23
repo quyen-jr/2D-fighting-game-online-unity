@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 741dbbe5536d314439b9670c43f7bdbb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1630
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cdb4b803f0909419e0d79843f2162e
+      internalID: 1267726274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1589
+        width: 180
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314681eac61c5e45b21ce9a07c78a37
+      internalID: 2088707363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1550
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5007c7a28023b524f9dadb4c5d0e8414
+      internalID: 1361474295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_3
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1525
+        width: 310
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d225e7c02e13e1439df84668ddee532
+      internalID: 1712731150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_4
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1500
+        width: 362
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f90b1342a968c4eb933fba10f91907
+      internalID: 1416470074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1008
+        width: 388
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b0f87c02acf2045867dd676dd6b0ff
+      internalID: -1960861432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1001
+        width: 402
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d269ed9755fc643861db8ac982a787
+      internalID: -1441825496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1001
+        width: 404
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb036eb9a4ab5d46a013aa40dc34f25
+      internalID: 1327489037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_8
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1000
+        width: 405
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85fbecdb4f26040b76ff0bb789507a
+      internalID: -679614033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_9
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 998
+        width: 410
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5769c97dcb20454ca3388d552ef60c3
+      internalID: -182710186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 516
+        width: 413
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17d51e4ddd08ca4ca69c53533de5566
+      internalID: -663949296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 516
+        width: 413
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c394c8a16971ca409e12f60c5f73b64
+      internalID: 50418109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 516
+        width: 412
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2217aa88710ccab42b37b20c40bd426f
+      internalID: -511382469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_13
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 516
+        width: 414
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163fd586eb6f82c4a911387cf69834ea
+      internalID: 1361010214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_14
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 516
+        width: 413
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7012ec870c858640adca64a86e73291
+      internalID: -1364282187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 35
+        width: 413
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1333d0ed56cbb4abc0e95e347b3dc4
+      internalID: -35744433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 35
+        width: 414
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1011f98b9cbb546bde32b40b2c14b9
+      internalID: -306170838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 35
+        width: 412
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e70dc7b21f0b241b6b73ed51c2d62f
+      internalID: 470673396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_18
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 35
+        width: 414
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12107e90325e084488d2a7d0115003ee
+      internalID: 1240496695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-btleffect213_480_19
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 35
+        width: 413
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf9169159496204cad043480a6c6cf4
+      internalID: 807726453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pipo-btleffect213_480_0: 1267726274
+      pipo-btleffect213_480_1: 2088707363
+      pipo-btleffect213_480_10: -663949296
+      pipo-btleffect213_480_11: 50418109
+      pipo-btleffect213_480_12: -511382469
+      pipo-btleffect213_480_13: 1361010214
+      pipo-btleffect213_480_14: -1364282187
+      pipo-btleffect213_480_15: -35744433
+      pipo-btleffect213_480_16: -306170838
+      pipo-btleffect213_480_17: 470673396
+      pipo-btleffect213_480_18: 1240496695
+      pipo-btleffect213_480_19: 807726453
+      pipo-btleffect213_480_2: 1361474295
+      pipo-btleffect213_480_3: 1712731150
+      pipo-btleffect213_480_4: 1416470074
+      pipo-btleffect213_480_5: -1960861432
+      pipo-btleffect213_480_6: -1441825496
+      pipo-btleffect213_480_7: 1327489037
+      pipo-btleffect213_480_8: -679614033
+      pipo-btleffect213_480_9: -182710186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

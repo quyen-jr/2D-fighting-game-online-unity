@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 4968ec3610284504e8aec4aaa5c422f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teleportSkill-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 62
+        width: 139
+        height: 125
+      alignment: 9
+      pivot: {x: 0.6015573, y: 0.8952612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b704d08b2ad2094da54f3fcb5c26eb0
+      internalID: -769446067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleportSkill-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 63
+        width: 142
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5099453, y: 0.90392494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82efd3e079b19469ad6d239480462b
+      internalID: -28647381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleportSkill-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 65
+        width: 159
+        height: 125
+      alignment: 9
+      pivot: {x: 0.54033965, y: 0.88852185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7740f3c6eea2fcd478ce99e3e1aae2b0
+      internalID: -908434704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleportSkill-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 82
+        width: 106
+        height: 109
+      alignment: 9
+      pivot: {x: 0.488435, y: 0.8767696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8eaf42fec79954a9419ce439a2f4f1
+      internalID: 2031399666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleportSkill-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 62
+        width: 121
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8551197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0760e45a9c55d8c428355962ad9b1067
+      internalID: -90722399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleportSkill-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 69
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcd79c023bdd67408a3612f6c2ca793
+      internalID: -1640413144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleportSkill-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 59
+        width: 141
+        height: 124
+      alignment: 9
+      pivot: {x: 0.58907455, y: 0.90514475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf046f9757c99e40a775d1e91e0c775
+      internalID: 603449741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      teleportSkill-removebg-preview_0: -769446067
+      teleportSkill-removebg-preview_1: -28647381
+      teleportSkill-removebg-preview_10: 108137471
+      teleportSkill-removebg-preview_11: 1292332501
+      teleportSkill-removebg-preview_12: 389526919
+      teleportSkill-removebg-preview_13: -1902097873
+      teleportSkill-removebg-preview_14: -1435476014
+      teleportSkill-removebg-preview_15: 821203408
+      teleportSkill-removebg-preview_16: -1110559930
+      teleportSkill-removebg-preview_17: -295383039
+      teleportSkill-removebg-preview_18: 1466354637
+      teleportSkill-removebg-preview_19: -477374345
+      teleportSkill-removebg-preview_2: -908434704
+      teleportSkill-removebg-preview_20: 322001671
+      teleportSkill-removebg-preview_21: -207920027
+      teleportSkill-removebg-preview_3: 2031399666
+      teleportSkill-removebg-preview_4: 1551748014
+      teleportSkill-removebg-preview_5: -90722399
+      teleportSkill-removebg-preview_6: -1640413144
+      teleportSkill-removebg-preview_7: 603449741
+      teleportSkill-removebg-preview_8: -929996970
+      teleportSkill-removebg-preview_9: -1312883973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

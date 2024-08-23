@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 3274595e01f793a43bb81fcf75ba15d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chidoriSprit_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 694
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1843f5879d49095468788c4d14c1e27f
+      internalID: 185023771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 692
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb08d82769bf8074eb2b46fbfafd8ade
+      internalID: 637658073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 696
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b6df8a86f7db24b8095d290015e9eb
+      internalID: 648178787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 700
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bfc23d3ef141248b4bba6aeebb16ba
+      internalID: -991786478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 697
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46142f83318ef804ab0bfb20b2af28a9
+      internalID: 1096643142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 694
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d47182ff491154a8c3af32e5a3c59d
+      internalID: -1257803352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 642
+        width: 133
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc82383d387d7745bb5b660e311ec96
+      internalID: -1717970476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 641
+        width: 135
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c052bcbaec6fc354291affc6e40be3c2
+      internalID: 2138978838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 641
+        width: 133
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545ff9d17d16cb499b16d8f7530961b
+      internalID: 1332367697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_18
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 640
+        width: 123
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e218133d3e8a85849b1dd0cba641f1aa
+      internalID: -2040256254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 655
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6fbdbbfd323aa42a440464ab507131
+      internalID: -488203667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 569
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542c0b2da3def184180816ed8f80f3b7
+      internalID: 2024871966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 644
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566104673e775b4bb6a66e4c35c0d09
+      internalID: -999614296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 642
+        width: 79
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13e06133258844a8bb5d9e3def059f
+      internalID: 439242338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 644
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766fe8a55e5932049a03c254e65637dc
+      internalID: -479689651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_24
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 644
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70fcbea1c0f5ab4e8df2fe56bdb531f
+      internalID: -995674498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_25
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 644
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547fc893b9f1c1147a9556fec4511b7e
+      internalID: 251630141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 541
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e6bc7bc5018342821b5d73a5a0e8c
+      internalID: 413102349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 576
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d2377a2fc22ce48b6b24f18dffcad3
+      internalID: -2075337735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 559
+        width: 105
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f88f9c483e59fb43bf1d812c65f8fba
+      internalID: 1099858121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 544
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d98ca844758039408065115dabc328f
+      internalID: -1944887779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 552
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043c88de9dbd71f45b6a52630752e9a2
+      internalID: -1081715392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 541
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc33ce6422faa64b87054149cd907df
+      internalID: 1200125571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 522
+        width: 1119
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694caae66264cb74882bd9578b2c41d9
+      internalID: -1143097048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 435
+        width: 121
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188714301d9cb24cac1e9ab6a442d15
+      internalID: -971192018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 442
+        width: 117
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03114ffdeefcf6408c00c69d6ce9509
+      internalID: 1755713396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 439
+        width: 125
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3047f7b8cc496214eaeeb49aa4b9fee9
+      internalID: 1355869319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_39
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 433
+        width: 119
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f122ff69bb33948a491fb5e5a6a68f
+      internalID: 87075072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_40
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 438
+        width: 143
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67860a3ff8aa90747b862cd9fdef043d
+      internalID: 444189661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_42
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 453
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62145faef9cd9c48b03999366ca12f1
+      internalID: 101117681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_43
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 446
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06098515125f3bb40a32506f75915591
+      internalID: -302413858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_45
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 446
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d330ba2ca12c594691a3c8611d96cd0
+      internalID: 975133527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_60
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 374
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375cf0e101cb2c94da3a3a8dad798262
+      internalID: 1162679268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_61
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 405
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f2de7d4bba5e47b9c1000479f284d
+      internalID: 866523207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_62
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 360
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3080f544526863b41abbb9ba1572102c
+      internalID: -1061614546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 396
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4cfe1fe686c3c4e8545ad706f9d721
+      internalID: -1624786848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 382
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3b428c4cb1be44090df33799f2102b
+      internalID: 1030720846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 383
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a60b1998f7308c40b9301e47672a603
+      internalID: 579458764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 389
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ebd5f3401f732478fa494eb19e5411
+      internalID: 1427744736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 372
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9cc786672646c4b987bb5bea91a763
+      internalID: -1927460755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 386
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a5bd9bcf64ee74189089c01ba04224
+      internalID: 1452885781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_69
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 386
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b78da741ee3b3644b72e79c2008f8db
+      internalID: -39809889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_70
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 386
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c7bb007898cc4abe997638c9ab1a3
+      internalID: 1179043152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_71
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 389
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb08f2081daea64b82aefe6118fbf44
+      internalID: -1657879454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 380
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e07147754bb749a8fe65248a716eb
+      internalID: 160155376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_73
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 360
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b119c420ac6d5f24d82c94070b67de4f
+      internalID: -1415937060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 174
+        width: 200
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e053ff49adf94a9ee0f862456468e
+      internalID: -1585431478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_75
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 255
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79183743922bc249b4f81802405053f
+      internalID: 1558247494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_76
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 164
+        width: 125
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d2aa258c5e1c4eac8b72f5fa6179e
+      internalID: -776148323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 177
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e080210e65a610d4ab64943c920fa691
+      internalID: -1151114693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_78
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 180
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c6f3320d61d5438df30e9edaeca48
+      internalID: 1927703188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_79
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 238
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151a7d6e55a532a4e9b24382df4ac34b
+      internalID: -2137282621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_80
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 188
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c2f81041085048b5642b708eb7e31
+      internalID: 1174404005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_81
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 171
+        width: 213
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8fe96230a7e274f8c2256f0b71d3a6
+      internalID: -2106242075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_82
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 183
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd49e7354683740b823b1ed6822cf1
+      internalID: -614852310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_83
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 236
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b7949af1ec02e4ab3610693a3188b1
+      internalID: -1856383016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_84
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 164
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddc72f8f38a98148abb2907a7580592
+      internalID: 479859856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_85
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 179
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a72a2b718dfca43a1b8364d4b34f8b
+      internalID: -735858433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_86
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 178
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74407c1778297d647b1c1f748d5d907a
+      internalID: -1202095929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_87
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 178
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ddf44d65c935442a15317474850070
+      internalID: 1734316664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_88
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 136
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c74172e1bd46348ae28d328160961f
+      internalID: 277068674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_89
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2281f295fc251e245aad30298e26b50f
+      internalID: -1256474836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_90
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 46
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f668d78245df543802f6f14b0d106e
+      internalID: -963128118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 33
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd011bbb3d1c04b92b294093820c69
+      internalID: -609675353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_92
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 177
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad05960fd7e4f4bb411ac58d043c25
+      internalID: -422973445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 8
+        width: 204
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e648c6b4e1e814c834b63e3fec0475
+      internalID: -1072579965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12fe63b245126041b6de698857a6c1b
+      internalID: -1392316363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_95
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9ffcbc0ef4a804db6c0bda88d7eea6
+      internalID: 846839626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_96
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 30
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6321d612c974c7d45a207d4acaf024cb
+      internalID: 913198015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_97
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 24
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d6a1dadeb7bcd40a60ba2d7ba11206
+      internalID: -1498936587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chidoriSprit_0
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 692
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2f56267635e044891a2398ca4b4c97
+      internalID: 2065742953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chidoriSprit_0: 2065742953
+      chidoriSprit_1: 185023771
+      chidoriSprit_10: 1051794787
+      chidoriSprit_11: -1050543934
+      chidoriSprit_12: 254243304
+      chidoriSprit_13: 1017569316
+      chidoriSprit_14: -1717970476
+      chidoriSprit_15: 129176303
+      chidoriSprit_16: 2138978838
+      chidoriSprit_17: 1332367697
+      chidoriSprit_18: -2040256254
+      chidoriSprit_19: -488203667
+      chidoriSprit_2: 524167110
+      chidoriSprit_20: 2024871966
+      chidoriSprit_21: -999614296
+      chidoriSprit_22: 439242338
+      chidoriSprit_23: -479689651
+      chidoriSprit_24: -995674498
+      chidoriSprit_25: 251630141
+      chidoriSprit_26: 413102349
+      chidoriSprit_27: -2075337735
+      chidoriSprit_28: 1099858121
+      chidoriSprit_29: -1944887779
+      chidoriSprit_3: 15851154
+      chidoriSprit_30: -1081715392
+      chidoriSprit_31: 1200125571
+      chidoriSprit_32: -1143097048
+      chidoriSprit_33: -971192018
+      chidoriSprit_34: 1755713396
+      chidoriSprit_35: 1499728534
+      chidoriSprit_36: 1355869319
+      chidoriSprit_37: -1586762476
+      chidoriSprit_38: 407859376
+      chidoriSprit_39: 87075072
+      chidoriSprit_4: 637658073
+      chidoriSprit_40: 444189661
+      chidoriSprit_41: -726481399
+      chidoriSprit_42: 101117681
+      chidoriSprit_43: -302413858
+      chidoriSprit_44: -113240716
+      chidoriSprit_45: 975133527
+      chidoriSprit_46: -1082538383
+      chidoriSprit_47: -1043567985
+      chidoriSprit_48: 1938920630
+      chidoriSprit_49: -1947563948
+      chidoriSprit_5: 187636914
+      chidoriSprit_50: -1814124522
+      chidoriSprit_51: 1317859823
+      chidoriSprit_52: -1638424968
+      chidoriSprit_53: 355908425
+      chidoriSprit_54: -1598141322
+      chidoriSprit_55: -880421219
+      chidoriSprit_56: 614319665
+      chidoriSprit_57: 141107876
+      chidoriSprit_58: -401502923
+      chidoriSprit_59: 1549426095
+      chidoriSprit_6: 648178787
+      chidoriSprit_60: 1162679268
+      chidoriSprit_61: 866523207
+      chidoriSprit_62: -1061614546
+      chidoriSprit_63: -1624786848
+      chidoriSprit_64: 1030720846
+      chidoriSprit_65: 579458764
+      chidoriSprit_66: 1427744736
+      chidoriSprit_67: -1927460755
+      chidoriSprit_68: 1452885781
+      chidoriSprit_69: -39809889
+      chidoriSprit_7: -991786478
+      chidoriSprit_70: 1179043152
+      chidoriSprit_71: -1657879454
+      chidoriSprit_72: 160155376
+      chidoriSprit_73: -1415937060
+      chidoriSprit_74: -1585431478
+      chidoriSprit_75: 1558247494
+      chidoriSprit_76: -776148323
+      chidoriSprit_77: -1151114693
+      chidoriSprit_78: 1927703188
+      chidoriSprit_79: -2137282621
+      chidoriSprit_8: 1096643142
+      chidoriSprit_80: 1174404005
+      chidoriSprit_81: -2106242075
+      chidoriSprit_82: -614852310
+      chidoriSprit_83: -1856383016
+      chidoriSprit_84: 479859856
+      chidoriSprit_85: -735858433
+      chidoriSprit_86: -1202095929
+      chidoriSprit_87: 1734316664
+      chidoriSprit_88: 277068674
+      chidoriSprit_89: -1256474836
+      chidoriSprit_9: -1257803352
+      chidoriSprit_90: -963128118
+      chidoriSprit_91: -609675353
+      chidoriSprit_92: -422973445
+      chidoriSprit_93: -1072579965
+      chidoriSprit_94: -1392316363
+      chidoriSprit_95: 846839626
+      chidoriSprit_96: 913198015
+      chidoriSprit_97: -1498936587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

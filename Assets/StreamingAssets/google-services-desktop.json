@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "146425895782",
+    "firebase_url": "https://multiplayer-game-unity-default-rtdb.firebaseio.com",
+    "project_id": "multiplayer-game-unity",
+    "storage_bucket": "multiplayer-game-unity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146425895782:android:fa40b325c0330cacd506a7",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MultiplayerGame2d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnLxQr3Y0u1t6LryPAyAp7_gBKl4P0quE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
